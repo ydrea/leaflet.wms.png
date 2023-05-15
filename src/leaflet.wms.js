@@ -306,8 +306,8 @@ wms.Overlay = L.Layer.extend({
         'version': '1.1.1',
         'layers': '',
         'styles': '',
-        'format': 'image/jpeg',
-        'transparent': false
+        'format': 'image/png',
+        'transparent': true
     },
 
     'options': {
